@@ -10,14 +10,15 @@
   <!-- begin:: Page -->
   <div class="kt-grid kt-grid--ver kt-grid--root kt-page">
     <div class="kt-grid kt-grid--hor kt-grid--root  kt-login kt-login--v4 kt-login--signin" id="kt_login">
-      <div class="kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor" style="background-image: url(assets/media/bg/bg-2.jpg);">
+      <div class="kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor" style="background-image: url(assets/pics/login-bg.jpg); background-size: cover">
         <div class="kt-grid__item kt-grid__item--fluid kt-login__wrapper">
           <div class="kt-login__container">
             <div class="kt-login__logo">
               <a href="index.php" style="color: #fff;">
-								<h1 class="logo"> Tech <span class="kt-font-success"> CRM </span> </h1>
+								<h1 class="logo"> Wash <span> Box </span> </h1>
 							</a>
             </div>
+
             <div class="kt-login__signin">
               <div class="kt-login__head">
                 <h3 class="kt-login__title">Login</h3>
@@ -41,7 +42,7 @@
                   </div>
                 </div>
                 <div class="kt-login__actions">
-                  <button id="kt_login_signin_submit" class="btn btn-success btn-pill kt-login__btn-primary">Login</button>
+                  <button id="kt_login_signin_submit" class="btn btn-pill kt-login__btn-primary">Login</button>
                 </div>
               </form>
             </div>
@@ -86,6 +87,7 @@
                 </div>
               </form>
             </div>
+
             <div class="kt-login__account">
               <span class="kt-login__account-msg">
                 Don't have an account yet ?
@@ -93,6 +95,7 @@
               &nbsp;&nbsp;
               <a href="javascript:;" id="kt_login_signup" class="kt-login__account-link">Sign Up!</a>
             </div>
+
           </div>
         </div>
       </div>

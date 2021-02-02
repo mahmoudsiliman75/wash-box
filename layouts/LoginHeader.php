@@ -4,7 +4,7 @@
 	<!-- begin::Head -->
 	<head>
 		<meta charset="utf-8" />
-		<title>Metronic | Login Page 4</title>
+		<title>Login</title>
 		<meta name="description" content="Login page example">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -14,7 +14,7 @@
 		<!--end::Fonts -->
 
 		<!--begin::Page Custom Styles(used by this page) -->
-		<link href="assets/css/pages/login/login-4.css" rel="stylesheet" type="text/css" />
+		<link href="assets/css/custom.css" rel="stylesheet" type="text/css" />
 
 		<!--end::Page Custom Styles -->
 
@@ -27,7 +27,7 @@
 		<!--begin::Layout Skins(used by all pages) -->
 
 		<!--end::Layout Skins -->
-		<link rel="shortcut icon" href="assets/media/logos/short-icon.png" />
+		<link rel="shortcut icon" href="assets/pics/fav-icon.png" />
 	</head>
 
 	<!-- end::Head -->
