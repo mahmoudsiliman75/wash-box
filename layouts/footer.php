@@ -4,7 +4,7 @@
 					<div class="kt-footer  kt-grid__item kt-grid kt-grid--desktop kt-grid--ver-desktop" id="kt_footer">
 						<div class="kt-container kt-container--fluid justify-content-center">
 							<div class="kt-footer__copyright" style="direction: ltr">
-								Powered By &nbsp; <a href="https://www.technomasr.com/" target="_blank" class="kt-link">TechnoMasr</a> &copy; 2021 
+								Made With <i class="la la-heart kt-font-danger mx-2 mt-1"></i> 2021 
 							</div>
 						</div>
 					</div>

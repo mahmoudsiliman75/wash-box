@@ -4,7 +4,7 @@
 	<!-- START::HEAD -->
 	<head>
 		<meta charset="utf-8" />
-		<title>CRM</title>
+		<title>Wash Box</title>
 		<meta name="description" content="Latest updates and statistic charts">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -35,7 +35,7 @@
 		<link href="assets/css/custom.css" rel="stylesheet" type="text/css" />
 		<!--end::Global Theme Styles -->
 
-		<link rel="shortcut icon" href="assets/media/logos/short-icon.png" />
+		<link rel="shortcut icon" href="assets/pics/fav-icon.png" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600&display=swap">
 	</head>
 	<!-- END::HEAD -->
@@ -71,7 +71,7 @@
 					<div class="kt-aside__brand kt-grid__item " id="kt_aside_brand">
 						<div class="kt-aside__brand-logo">
 							<a href="index.php" style="color: #fff;">
-								<h3 class="logo"> Tech <span> CRM </span> </h3>
+								<h3 class="logo"> Wash <span> Box </span> </h3>
 							</a>
 						</div>
 						<div class="kt-aside__brand-tools">
@@ -87,19 +87,19 @@
 
 								<li class="kt-menu__item  kt-menu__item--active" aria-haspopup="true">
 									<a href="index.php" class="kt-menu__link ">
-										<i class="kt-menu__link-icon flaticon2-architecture-and-city"></i>
+										<i class="kt-menu__link-icon la la-home la-2x"></i>
 										<span class="kt-menu__link-text">الرئيسية</span>
 									</a>
 								</li>
 
                 <li class="kt-menu__item" aria-haspopup="false">
 									<a href="usersList.php" class="kt-menu__link ">
-                  <i class="kt-menu__link-icon la la-users la-2x" style="font-size: 20px"></i>
+                  <i class="kt-menu__link-icon la la-user la-2x" style="font-size: 20px"></i>
 										<span class="kt-menu__link-text">إدارة المستخدمين</span>
 									</a>
 								</li>
 
-								<li class="kt-menu__item"  aria-haspopup="true">
+								<!-- <li class="kt-menu__item"  aria-haspopup="true">
 									<a href="javascript:;" class="kt-menu__link kt-menu__toggle">
 										<i class="kt-menu__link-icon la la-users la-2x" style="font-size: 20px"></i>
 										<span class="kt-menu__link-text">ادارة الموارد البشرية</span>
@@ -130,16 +130,16 @@
 
 										</ul>
 									</div>
-								</li>
+								</li> -->
 
-								<li class="kt-menu__item" aria-haspopup="false">
+								<!-- <li class="kt-menu__item" aria-haspopup="false">
 									<a href="mainServices.php" class="kt-menu__link ">
 										<i class="kt-menu__link-icon la la-diamond" style="font-size: 20px;"></i>
 										<span class="kt-menu__link-text">ادارة الخدمات</span>
 									</a>
-								</li>
+								</li> -->
 
-								<li class="kt-menu__item"  aria-haspopup="true">
+								<!-- <li class="kt-menu__item"  aria-haspopup="true">
 									<a href="javascript:;" class="kt-menu__link kt-menu__toggle">
 										<i class="kt-menu__link-icon la la-cloud" style="font-size: 20px"></i>
 										<span class="kt-menu__link-text">ادارة الإستضافات</span>
@@ -158,16 +158,16 @@
 
 										</ul>
 									</div>
-								</li>
+								</li> -->
 
-								<li class="kt-menu__item" aria-haspopup="false">
+								<!-- <li class="kt-menu__item" aria-haspopup="false">
 									<a href="contracts.php" class="kt-menu__link ">
 										<i class="kt-menu__link-icon la la-check-square" style="font-size: 20px;"></i>
 										<span class="kt-menu__link-text"> ادارة التعاقدات </span>
 									</a>
-								</li>
+								</li> -->
 
-								<li class="kt-menu__item"  aria-haspopup="true">
+								<!-- <li class="kt-menu__item"  aria-haspopup="true">
 									<a href="javascript:;" class="kt-menu__link kt-menu__toggle">
 										<i class="kt-menu__link-icon la la-briefcase" style="font-size: 20px"></i>
 										<span class="kt-menu__link-text">ادارة العملاء</span>
@@ -202,9 +202,9 @@
 
 										</ul>
 									</div>
-								</li>
+								</li> -->
 
-                <li class="kt-menu__item"  aria-haspopup="true">
+                <!-- <li class="kt-menu__item"  aria-haspopup="true">
 									<a href="javascript:;" class="kt-menu__link kt-menu__toggle">
 										<i class="kt-menu__link-icon la la-dollar" style="font-size: 20px"></i>
 										<span class="kt-menu__link-text">ادارة المالية</span>
@@ -223,7 +223,7 @@
 
 										</ul>
 									</div>
-								</li>
+								</li> -->
 
 							</ul>
 						</div>
