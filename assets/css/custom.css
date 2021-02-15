@@ -623,6 +623,8 @@ input.btn.btn-label-brand.active {
 .kt-media.kt-media--lg img {
   max-width: 65px;
   max-height: 65px;
+  min-width: 65px;
+  min-height: 65px;
 }
 /* END:: OFFER AND PACKAGE PAGE STYLE */
 
