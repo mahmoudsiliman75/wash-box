@@ -52,9 +52,10 @@
                   </span>
                 </td>
                 <td align="right">
-                  <a href="#" class="kt-badge kt-badge--outline kt-badge--primary" data-skin="dark" data-toggle="kt-tooltip" data-placement="top" title="تعديل">
+                  <button type="button" class="kt-badge kt-badge--outline kt-badge--primary" data-skin="dark" data-toggle="modal" data-target="#kt_modal_4_2"  title="تعديل">
                     <i class="la la-edit"></i>
-                  </a>
+                  </button>
+
                   <a href="#" class="delete kt-badge kt-badge--outline kt-badge--danger" data-skin="dark" data-toggle="kt-tooltip" data-placement="top" title="حذف">
                     <i class="la la-trash"></i>
                   </a>
@@ -62,6 +63,112 @@
               </tr>
             </tbody>
           </table>
+
+          <!--begin::Modal-->
+          <div class="modal fade" id="kt_modal_4_2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel"> تعديل </h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <!-- START:: EDIT FORM -->
+                  <form class="kt-form pb-0 p-3">
+                    <div class="row">
+
+                      <div class="form-group col-12 col-md-6">
+                        <div class="row">
+                          <label class="col-form-label col-12"> اسم الباقة </label>
+                          <div class="input-group-prepend col-12">
+                            <span class="input-group-text"> <i class="la la-pencil" style="font-size: 18px"></i> </span>
+                            <input type="text" class="form-control" placeholder=" اسم الباقة ">
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="form-group col-12 col-md-6">
+                        <div class="row">
+                          <label class="col-form-label col-12"> السعر </label>
+                          <div class="input-group-prepend col-12">
+                            <span class="input-group-text"> <i class="la la-dollar" style="font-size: 18px"></i> </span>
+                            <input type="number" min="0" class="form-control" placeholder=" السعر ">
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="form-group col-12 col-md-6">
+                        <div class="row">
+                          <label class="col-form-label col-12"> الخصم </label>
+                          <div class="input-group-prepend col-12">
+                            <span class="input-group-text"> <i class="la la-dollar" style="font-size: 18px"></i> - </span>
+                            <input type="number" min="0" class="form-control" placeholder=" الخصم ">
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="form-group col-12 col-md-6">
+                        <div class="row">
+                          <label class="col-form-label col-12"> مدة الاشتراك </label>
+                          <div class="input-group-prepend col-12">
+                            <span class="input-group-text"> <i class="la la-calendar" style="font-size: 18px"></i></span>
+                            <input type="number" min="0" class="form-control" placeholder=" مدة الاشتراك ">
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="form-group col-12 col-md-6">
+                        <div class="row">
+                          <label class="col-form-label col-12"> عدد القطع </label>
+                          <div class="input-group-prepend col-12">
+                            <span class="input-group-text"> <i class="la la-bookmark" style="font-size: 18px"></i></span>
+                            <input type="number" min="0" class="form-control" placeholder=" عدد القطع ">
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="form-group col-12 col-md-6">
+                        <div class="row">
+                          <label class="col-form-label col-12"> عدد الزيارات </label>
+                          <div class="input-group-prepend col-12">
+                            <span class="input-group-text"> <i class="la la-bookmark" style="font-size: 18px"></i></span>
+                            <input type="number" min="0" class="form-control" placeholder=" عدد الزيارات ">
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="form-group col-12 col-md-6">
+                        <div class="row">
+                          <label class="col-form-label col-12"> الصورة </label>
+                          <div class="input-group-prepend col-12">
+                            <input type="file" class="offer-image border d-block p-2 col-12">
+                          </div>
+                          <div class="offer-pic mt-3 mx-3">
+                            <div class="overlay">
+                              <i id="remove-offer-pic" class="la la-times-circle text-danger"></i>
+                            </div>
+                            <img src="assets/pics/fav-icon.png" alt="..." class="offer-image-preview">
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="form-group col-12 px-4">
+                        <div class="input-group">
+                          <div class="row">
+                            <button type="submit" class="btn btn-success" style="background-color:#17b978; border:none;">حفظ</button> 
+                          </div>
+                        </div>
+                      </div>
+
+                    </div>
+                  </form>
+                  <!-- END:: EDIT FORM -->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--end::Modal-->
 
         </div>
         <!--END: NEW USER DATATABLE-->
