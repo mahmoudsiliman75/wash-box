@@ -13,6 +13,24 @@ $(document).ready( function () {
   });
   // END:: CHANGE PROFILE PAGE
 
+  // START:: CHANGE OFFER PIC
+  $(".offer-image").on('change', function() {
+    if (this.files && this.files[0]) {
+      var reader = new FileReader();
+  
+      reader.onload = (e) => {
+        $('.offer-image-preview').attr('src', e.target.result);
+      }
+  
+      reader.readAsDataURL(this.files[0]);
+    };
+  });
+  // END:: CHANGE OFFER PIC
+
+  $('#remove-offer-pic').on('click', function() {
+    $(this).parent().parent().empty();
+  });
+
   // START:: SELECT2 OPTIONS
   $('#permissions_select2_3').select2({
   placeholder: "اختار الصلاحيات",
