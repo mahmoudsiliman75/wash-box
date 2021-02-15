@@ -42,9 +42,6 @@
                 <td>Orange</td>
 
                 <td align="right">
-                  <a href="#" class="kt-badge kt-badge--outline kt-badge--success" data-skin="dark" data-toggle="kt-tooltip" data-placement="top" title="تاريخ العمليات">
-                    <i class="la la-calendar"></i>
-                  </a>
                   <a href="#" class="kt-badge kt-badge--outline kt-badge--primary" data-skin="dark" data-toggle="kt-tooltip" data-placement="top" title="تعديل">
                     <i class="la la-edit"></i>
                   </a>
@@ -63,9 +60,6 @@
                 <td>Jimmy</td>
                 <td>Goldenrod</td>
                 <td align="right">
-                  <a href="#" class="kt-badge kt-badge--outline kt-badge--success" data-skin="dark" data-toggle="kt-tooltip" data-placement="top" title="تاريخ العمليات">
-                    <i class="la la-calendar"></i>
-                  </a>
                   <a href="#" class="kt-badge kt-badge--outline kt-badge--primary" data-skin="dark" data-toggle="kt-tooltip" data-placement="top" title="تعديل">
                     <i class="la la-edit"></i>
                   </a>

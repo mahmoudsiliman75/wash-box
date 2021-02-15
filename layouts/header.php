@@ -99,6 +99,13 @@
 									</a>
 								</li>
 
+                <li class="kt-menu__item" aria-haspopup="false">
+									<a href="OffersAndPackages.php" class="kt-menu__link ">
+                  <i class="kt-menu__link-icon la la-star-o la-2x" style="font-size: 20px"></i>
+										<span class="kt-menu__link-text">عروض و باقات</span>
+									</a>
+								</li>
+
 								<!-- <li class="kt-menu__item"  aria-haspopup="true">
 									<a href="javascript:;" class="kt-menu__link kt-menu__toggle">
 										<i class="kt-menu__link-icon la la-users la-2x" style="font-size: 20px"></i>
