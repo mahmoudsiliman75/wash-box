@@ -14,7 +14,7 @@
             <div class="kt-portlet__head-label d-flex justify-content-between w-100">
                 <h3 class="kt-portlet__head-title"> قائمة الاسعار </h3>
                 <div class="btns-box">
-                  <a href="AddOffersAndPackages.php" type="button" class="btn btn-outline-success mx-1 mb-1"> <i class="la la-plus"></i> إضافة اسعار  </a>
+                  <a href="AddPriceList.php" type="button" class="btn btn-outline-success mx-1 mb-1"> <i class="la la-plus"></i> إضافة قائمة اسعار  </a>
                 </div>
             </div>
           </div>
@@ -39,7 +39,7 @@
                 <td> قسم 1 </td>
                 <td> 
                   <span class="kt-media kt-media--lg">
-                    <img src="assets/pics/7.png" alt="image">
+                    <img src="assets/pics/2.png" alt="image">
                   </span>
                 </td>
                 <td> 

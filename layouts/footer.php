@@ -98,6 +98,10 @@
 		<script src="assets/js/bootstrap-timepicker.js" type="text/javascript"></script>
     <!-- END:: SELECT TIME SCRIPT -->
 
+    <!-- START:: FORM REBEATER SCRIPT -->
+    <script src="assets/js/form-repeater.js"></script>
+    <!-- END:: FORM REBEATER SCRIPT -->
+
 		<script src="assets/js/custom.js"></script>
 	</body>
 
