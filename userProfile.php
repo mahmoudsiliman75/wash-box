@@ -12,7 +12,7 @@
         <div class="kt-widget kt-widget--user-profile-2">
           <div class="kt-widget__head d-flex flex-column">
             <div class="kt-widget__media">
-              <img class="kt-widget__img kt-hidden-" src="assets/media//users/300_14.jpg" alt="image">
+              <img class="kt-widget__img kt-hidden-" src="assets/pics/user.jpg" alt="image">
             </div>
             <div class="kt-widget__info">
               <a href="#" class="kt-widget__username">
@@ -27,15 +27,15 @@
 
             <div class="kt-widget__item mt-3">
               <div class="kt-widget__contact justify-content-start">
-                <span class="kt-widget__label mx-2"><i class="la la-at la-lg" style="font-weight: bold; color:#17b978;"></i></span>
+                <span class="kt-widget__label mx-2"><i class="la la-at la-lg" style="font-weight: bold; color:#f0a500;"></i></span>
                 <a href="#" class="kt-widget__data">matt@fifestudios.com</a>
               </div>
               <div class="kt-widget__contact justify-content-start">
-                <span class="kt-widget__label mx-2"><i class="la la-mobile la-lg" style="font-weight: bold; color:#17b978;"></i></span>
+                <span class="kt-widget__label mx-2"><i class="la la-mobile la-lg" style="font-weight: bold; color:#f0a500;"></i></span>
                 <a href="#" class="kt-widget__data">44(76)34254578</a>
               </div>
               <div class="kt-widget__contact justify-content-start">
-                <span class="kt-widget__label mx-2"><i class="la la-map-marker la-lg" style="font-weight: bold; color:#17b978;"></i></span>
+                <span class="kt-widget__label mx-2"><i class="la la-map-marker la-lg" style="font-weight: bold; color:#f0a500;"></i></span>
                 <span class="kt-widget__data">Melbourne</span>
               </div>
             </div>

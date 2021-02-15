@@ -51,21 +51,21 @@
     <!--end::Global Theme Bundle -->
 
 		<!--begin::Page Vendors(used by this page) -->
-		<script src="assets/plugins/custom/fullcalendar/fullcalendar.bundle.js" type="text/javascript"></script>
+		<script src="assets/js/fullcalendar.bundle.js" type="text/javascript"></script>
 		<script src="//maps.google.com/maps/api/js?key=AIzaSyBTGnKT7dt597vo9QgeQ7BFhvSRP4eiMSM" type="text/javascript"></script>
-		<script src="assets/plugins/custom/gmaps/gmaps.js" type="text/javascript"></script>
+		<script src="assets/js/gmaps.js" type="text/javascript"></script>
     <!--end::Page Vendors -->
 
     <!-- START:: TEXT EDITOR SCRIPTS -->
-    <script src="assets/plugins/custom/ckeditor/ckeditor-classic.bundle.js" type="text/javascript"></script>
+    <script src="assets/js/ckeditor-classic.bundle.js" type="text/javascript"></script>
     <!-- END:: TEXT EDITOR SCRIPTS -->
 
 		<!--START::SELECT2 SCRIPT -->
-		<script src="assets/js/pages/crud/forms/widgets/select2.js" type="text/javascript"></script>
+		<script src="assets/js/select2.js" type="text/javascript"></script>
 		<!--END::SELECT2 SCRIPT -->
 
 		<!-- SRART:: BOOTSTRAP SELECT SCRIPT -->
-		<script src="assets/js/pages/crud/forms/widgets/bootstrap-select.js" type="text/javascript"></script>
+		<script src="assets/js/bootstrap-select.js" type="text/javascript"></script>
 		<!-- SRART:: BOOTSTRAP SELECT SCRIPT -->
 
 		<!-- START:: HTML DATATABEL SCRIPT -->
@@ -73,7 +73,7 @@
 		<!-- EDD:: HTML DATATABEL SCRIPT -->
 
 		<!--begin::Page Scripts(used by this page) -->
-		<script src="assets/js/pages/dashboard.js" type="text/javascript"></script>
+		<script src="assets/js/dashboard.js" type="text/javascript"></script>
 		<!--end::Page Scripts -->
 
 		<!-- START:: SIMPLESELECT SCRIPT -->
@@ -81,21 +81,21 @@
 		<!-- END:: SIMPLESELECT SCRIPT -->
 
 		<!-- START:: DATEPICKER SCRIPT -->
-		<script src="assets/js/pages/crud/forms/widgets/bootstrap-datepicker.js" type="text/javascript"></script>
+		<script src="assets/js/bootstrap-datepicker.js" type="text/javascript"></script>
 		<!-- START:: DATEPICKER SCRIPT -->
 
 		<!-- START:: UPLOADFILES SCRIPT -->
-		<script src="assets/plugins/custom/uppy/uppy.bundle.js" type="text/javascript"></script>
-		<script src="assets/js/pages/crud/file-upload/uppy.js" type="text/javascript"></script>
-		<script src="assets/js/pages/crud/file-upload/dropzonejs.js" type="text/javascript"></script>
+		<script src="assets/js/uppy.bundle.js" type="text/javascript"></script>
+		<script src="assets/js/uppy.js" type="text/javascript"></script>
+		<script src="assets/js/dropzonejs.js" type="text/javascript"></script>
     <!-- END:: UPLOADFILES SCRIPT -->
 
     <!-- START:: SWEET ALERT -->
-    <script src="assets/js/pages/components/extended/sweetalert2.js" type="text/javascript"></script>
+    <script src="assets/js/sweetalert2.js" type="text/javascript"></script>
     <!-- END:: SWEET ALERT -->
 
 		<!-- START:: SELECT TIME SCRIPT -->
-		<script src="assets/js/pages/crud/forms/widgets/bootstrap-timepicker.js" type="text/javascript"></script>
+		<script src="assets/js/bootstrap-timepicker.js" type="text/javascript"></script>
     <!-- END:: SELECT TIME SCRIPT -->
 
 		<script src="assets/js/custom.js"></script>

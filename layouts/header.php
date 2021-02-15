@@ -276,11 +276,11 @@
 								<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-top-unround dropdown-menu-lg">
 
                   <ul class="list-unstyled">
-                    <li class="alert alert-solid-success alert-bold my-2">
+                    <li class="alert alert-solid-warning alert-bold my-2">
                       <a href="#" class="alert-text"> اشعار 1 </a>
                     </li>
 
-                    <li class="alert alert-solid-success alert-bold my-2">
+                    <li class="alert alert-solid-warning alert-bold my-2">
                       <a href="#" class="alert-text"> اشعار 2 </a>
                     </li>
                   </ul>
@@ -289,49 +289,20 @@
 							</div>
 							<!--END:: NOTIFICATIONS -->
 
-							<!--START:: LANGUAGE BAR -->
-							<div class="kt-header__topbar-item kt-header__topbar-item--langs">
-								<div class="kt-header__topbar-wrapper" data-toggle="dropdown" data-offset="10px,0px">
-									<span class="kt-header__topbar-icon">
-										<img class="" src="assets/media/flags/158-egypt.svg" alt="" />
-									</span>
-								</div>
-								<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-top-unround">
-									<ul class="kt-nav kt-margin-t-10 kt-margin-b-10">
-
-										<li class="kt-nav__item kt-nav__item--active">
-											<a href="#" class="kt-nav__link">
-												<span class="kt-nav__link-icon"><img src="assets/media/flags/158-egypt.svg" alt="" /></span>
-												<span class="kt-nav__link-text">العربية</span>
-											</a>
-										</li>
-
-										<li class="kt-nav__item kt-nav__item--active">
-											<a href="#" class="kt-nav__link">
-												<span class="kt-nav__link-icon"><img src="assets/media/flags/226-united-states.svg" alt="" /></span>
-												<span class="kt-nav__link-text">English</span>
-											</a>
-										</li>
-
-									</ul>
-								</div>
-							</div>
-							<!--END:: LANGUAGE BAR -->
-
 							<!--START:: USER BAR -->
 							<div class="kt-header__topbar-item kt-header__topbar-item--user">
 								<div class="kt-header__topbar-wrapper" data-toggle="dropdown" data-offset="0px,0px">
 									<div class="kt-header__topbar-user">
 										<span class="kt-header__topbar-username kt-hidden-mobile">محمود سليمان</span>
-										<img alt="Pic" class="kt-radius-100" src="assets/media/users/300_14.jpg" />
+										<img alt="Pic" class="kt-radius-100" src="assets/pics/user.jpg" />
 									</div>
 								</div>
 								<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-top-unround dropdown-menu-xl">
 
 									<!--START: HEAD -->
-									<div class="kt-user-card kt-user-card--skin-dark kt-notification-item-padding-x" style="background-image: url(assets/media/bg/bg-8.jpg)">
+									<div class="kt-user-card kt-user-card--skin-dark kt-notification-item-padding-x" style="background-image: url(assets/pics/bg-2.jpg">
 										<div class="kt-user-card__avatar">
-											<img class="" alt="Pic" src="assets/media/users/300_14.jpg" />
+											<img class="" alt="Pic" src="assets/pics/user.jpg" />
 										</div>
 										<div class="kt-user-card__name">
 											محمود سليمان

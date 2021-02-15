@@ -2,8 +2,6 @@
 <?php include('layouts/LoginHeader.php') ?>
 <!-- END:: INCLUDING THE HEADER -->
 
-
-
 <!-- begin::Body -->
 <body style="background-image: url(assets/media/demos/demo8/bg-1.jpg)" class="kt-quick-panel--right kt-demo-panel--right kt-offcanvas-panel--right kt-header--fixed kt-header-mobile--fixed kt-subheader--enabled kt-subheader--transparent kt-page--loading">
 
@@ -47,31 +45,6 @@
               </form>
             </div>
 
-            <div class="kt-login__signup">
-              <div class="kt-login__head">
-                <h3 class="kt-login__title">Sign Up</h3>
-                <div class="kt-login__desc">Enter your details to create your account:</div>
-              </div>
-              <form class="kt-form" action="">
-                <div class="input-group">
-                  <input class="form-control" type="text" placeholder="Fullname" name="fullname">
-                </div>
-                <div class="input-group">
-                  <input class="form-control" type="text" placeholder="Email" name="email" autocomplete="off">
-                </div>
-                <div class="input-group">
-                  <input class="form-control" type="password" placeholder="Password" name="password">
-                </div>
-                <div class="input-group">
-                  <input class="form-control" type="password" placeholder="Confirm Password" name="rpassword">
-                </div>
-                <div class="kt-login__actions">
-                  <button id="kt_login_signup_submit" class="btn btn-success btn-pill kt-login__btn-primary">Sign Up</button>&nbsp;&nbsp;
-                  <button id="kt_login_signup_cancel" class="btn btn-secondary btn-pill kt-login__btn-secondary">Cancel</button>
-                </div>
-              </form>
-            </div>
-
             <div class="kt-login__forgot">
               <div class="kt-login__head">
                 <h3 class="kt-login__title">Forgotten Password ?</h3>
@@ -86,14 +59,6 @@
                   <button id="kt_login_forgot_cancel" class="btn btn-secondary btn-pill kt-login__btn-secondary">Cancel</button>
                 </div>
               </form>
-            </div>
-
-            <div class="kt-login__account">
-              <span class="kt-login__account-msg">
-                Don't have an account yet ?
-              </span>
-              &nbsp;&nbsp;
-              <a href="javascript:;" id="kt_login_signup" class="kt-login__account-link">Sign Up!</a>
             </div>
 
           </div>
