@@ -552,6 +552,11 @@ table.dataTable td .kt-badge {
   margin: 2px;
 }
 
+table.dataTable td .custome-badge {
+  width: auto;
+  height: auto;
+}
+
 table.dataTable td .kt-badge i {
   font-size: 18px;
 }

@@ -12,12 +12,12 @@
 
           <div class="kt-portlet__head">
             <div class="kt-portlet__head-label d-flex justify-content-between w-100">
-                <h3 class="kt-portlet__head-title"> قائمة العملاء </h3>
+                <h3 class="kt-portlet__head-title">  الملف الشخصي </h3>
             </div>
           </div>
 
         <!--START: CLIENTS DATATABLE-->
-        <div class="kt-portlet__body kt-portlet__body--fit">
+        <!-- <div class="kt-portlet__body kt-portlet__body--fit">
 
           <table class="standard table table-responsive-sm" width="100%">
             <thead class="thead-dark">
@@ -59,7 +59,7 @@
             </tbody>
           </table>
 
-        </div>
+        </div> -->
         <!--END: CLIENTS DATATABLE-->
 
       </div>  
