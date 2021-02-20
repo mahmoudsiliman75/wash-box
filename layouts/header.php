@@ -103,6 +103,13 @@
 								</li>
 
                 <li class="kt-menu__item" aria-haspopup="false">
+									<a href="AddArea.php" class="kt-menu__link ">
+                  <i class="kt-menu__link-icon la la-map-marker la-2x" style="font-size: 20px"></i>
+										<span class="kt-menu__link-text"> إضافة محافظة و منطقة </span>
+									</a>
+								</li>
+
+                <li class="kt-menu__item" aria-haspopup="false">
 									<a href="OffersAndPackages.php" class="kt-menu__link ">
                   <i class="kt-menu__link-icon la la-star-o la-2x" style="font-size: 20px"></i>
 										<span class="kt-menu__link-text">عروض و باقات</span>

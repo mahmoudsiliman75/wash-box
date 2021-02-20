@@ -37,6 +37,10 @@ body::-webkit-scrollbar-thumb {
 .btn-success {
   background-color: #f0a500 !important;
 }
+
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: start;
+}
 /* END:: GLOBAL STYLES */
 
 /* START:: LOGIN PAGE STYLES */

@@ -34,7 +34,7 @@
               <tr>
                 <td>1</td>
                 <td> 
-                  <a href="ٌRequestDetails.php" class="kt-link kt-link--state kt-link--info">  عميل 1 </a> 
+                  <a href="ClientProfile.php" class="kt-link kt-link--state kt-link--info">  عميل 1 </a> 
                 </td>
                 <td> 00 : 3  </td>
                 <td> 
