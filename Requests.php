@@ -34,7 +34,7 @@
               <tr>
                 <td>1</td>
                 <td> 
-                  <a href="ٌRequestDetails.php" class="kt-link kt-link--state kt-link--info">  عميل 1 </a> 
+                  <a href="ClientProfile.php" class="kt-link kt-link--state kt-link--info">  عميل 1 </a> 
                 </td>
                 <td> 00 : 3  </td>
                 <td> 
@@ -43,7 +43,7 @@
                   </span>
                 </td>
                 <td align="right">
-                  <a href="ClientDetails.php" class="kt-badge kt-badge--outline kt-badge--success" data-skin="dark" data-toggle="kt-tooltip" title="تفاصيل">
+                  <a href="RequestDetails.php" class="kt-badge kt-badge--outline kt-badge--success" data-skin="dark" data-toggle="kt-tooltip" title="تفاصيل">
                     <i class="la la-expand"></i>
                   </a>
 
@@ -56,7 +56,7 @@
               <tr>
                 <td>2</td>
                 <td> 
-                  <a href="ٌRequestDetails.php" class="kt-link kt-link--state kt-link--info">  عميل 2 </a> 
+                  <a href="ClientProfile.php" class="kt-link kt-link--state kt-link--info">  عميل 2 </a> 
                 </td>
                 <td> 00 : 6  </td>
                 <td> 
@@ -65,7 +65,7 @@
                   </span>
                 </td>
                 <td align="right">
-                  <a href="ClientDetails.php" class="kt-badge kt-badge--outline kt-badge--success" data-skin="dark" data-toggle="kt-tooltip" title="تفاصيل">
+                  <a href="RequestDetails.php" class="kt-badge kt-badge--outline kt-badge--success" data-skin="dark" data-toggle="kt-tooltip" title="تفاصيل">
                     <i class="la la-expand"></i>
                   </a>
 
@@ -78,7 +78,7 @@
               <tr>
                 <td>3</td>
                 <td> 
-                  <a href="ٌRequestDetails.php" class="kt-link kt-link--state kt-link--info">  عميل 3 </a> 
+                  <a href="ClientProfile.php" class="kt-link kt-link--state kt-link--info">  عميل 3 </a> 
                 </td>
                 <td> 00 : 8  </td>
                 <td> 
@@ -87,7 +87,7 @@
                   </span>
                 </td>
                 <td align="right">
-                  <a href="ClientDetails.php" class="kt-badge kt-badge--outline kt-badge--success" data-skin="dark" data-toggle="kt-tooltip" title="تفاصيل">
+                  <a href="RequestDetails.php" class="kt-badge kt-badge--outline kt-badge--success" data-skin="dark" data-toggle="kt-tooltip" title="تفاصيل">
                     <i class="la la-expand"></i>
                   </a>
 
