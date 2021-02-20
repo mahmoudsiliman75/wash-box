@@ -125,7 +125,7 @@
           </div>
           <!-- END:: ADD GOV MODAL -->
 
-          <!-- START:: ADD GOV MODAL -->
+          <!-- START:: ADD AREA MODAL -->
           <div class="modal fade" id="add_area" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-xl" role="document">
               <div class="modal-content">
@@ -186,7 +186,7 @@
               </div>
             </div>
           </div>
-          <!-- END:: ADD GOV MODAL -->
+          <!-- END:: ADD AREA MODAL -->
 
         </div>
         <!--END: CLIENTS DATATABLE-->
