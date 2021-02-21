@@ -484,6 +484,12 @@ body::-webkit-scrollbar-thumb {
   min-height: 390px;
 }
 
+.kt-container .custom-portel {
+  min-height: auto !important;
+  margin-bottom: 0;
+  padding: 15px;
+}
+
 .kt-container .kt-portlet .kt-portlet__head .title-container a,
 .kt-container .kt-portlet .kt-portlet__head .title-container button {
   border-color: #f0a500 !important;

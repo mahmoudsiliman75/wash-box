@@ -38,7 +38,7 @@
                 </td>
                 <td> 00 : 3  </td>
                 <td> 
-                  <span class="custome-badge kt-badge kt-badge--success kt-badge--inline kt-badge--pill kt-badge--rounded" style="wudth: auto; height: auto;">
+                  <span class="custome-badge kt-badge kt-badge--success kt-badge--inline kt-badge--pill kt-badge--rounded p-2" style="width: auto; height: auto;">
                   تم التوصيل
                   </span>
                 </td>
@@ -60,7 +60,7 @@
                 </td>
                 <td> 00 : 6  </td>
                 <td> 
-                  <span class="custome-badge kt-badge kt-badge--warning kt-badge--inline kt-badge--pill kt-badge--rounded" style="wudth: auto; height: auto;">
+                  <span class="custome-badge kt-badge kt-badge--warning kt-badge--inline kt-badge--pill kt-badge--rounded p-2" style="width: auto; height: auto;">
                   فى الانتظار
                   </span>
                 </td>
@@ -82,7 +82,7 @@
                 </td>
                 <td> 00 : 8  </td>
                 <td> 
-                  <span class="custome-badge kt-badge kt-badge--danger kt-badge--inline kt-badge--pill kt-badge--rounded" style="wudth: auto; height: auto;">
+                  <span class="custome-badge kt-badge kt-badge--danger kt-badge--inline kt-badge--pill kt-badge--rounded p-2" style="width: auto; height: auto;">
                   تم الالغاء
                   </span>
                 </td>
