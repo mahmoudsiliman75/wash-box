@@ -672,3 +672,41 @@ input.btn.btn-label-brand.active {
   min-height: 100px;
 }
 /* END:: ADD OFFER AND PACKAGE PAGE STYLE */
+
+/* START:: CLIENT PROFILE PAGE STYLES */
+.profile-card .card-head {
+  position: relative;
+}
+
+.profile-card img {
+  max-height: 110px;
+}
+
+.profile-card .client-pic {
+  position: absolute;
+  bottom: -55px;
+  left: 50%;
+  display: block;
+  min-width: 110px;
+  max-width: 110px;
+  min-height: 110px;
+  max-height: 110px;
+  border-radius: 50%;
+  border: 3px solid #f0a500;
+  transform: translateX(-50%);
+}
+
+.profile-card .card-body {
+  margin-top: 65px;
+  position: relative;
+}
+
+.profile-card .card-body .client-financ {
+  position: absolute;
+  top: -30px;
+  right: -5px;
+  width: auto;
+  height: auto;
+  padding: 8px;
+}
+/* END:: CLIENT PROFILE PAGE STYLES */
