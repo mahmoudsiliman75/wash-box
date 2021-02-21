@@ -16,43 +16,52 @@
             </div>
           </div>
 
-        <!--START: CLIENTS DATATABLE-->
-        <div class="kt-portlet__body kt-portlet__body--fit">
+        <!--START: REQUEST DETAILS TABLE -->
+        <div class="kt-portlet__body kt-portlet__body--fit mb-4 px-4">
 
-          <table class="standard table table-responsive-sm" width="100%">
-            <thead class="thead-dark">
+          <table class="table mt-5">
+            <thead class="thead-dark text-center">
               <tr>
-                <th>#</th>
-                <th> الاسم </th>
-                <th> الوقت </th>
-                <th> الحالة </th>
-                <th class="action">إجراء</th>
-
+                <th> تفاصيل الطلب </th>
               </tr>
             </thead>
-            <tbody>
-              <tr>
-                <td>1</td>
-                <td> 
-                  <a href="ClientProfile.php" class="kt-link kt-link--state kt-link--info">  عميل 1 </a> 
-                </td>
-                <td> 00 : 3  </td>
-                <td> 
-                  <span class="custome-badge kt-badge kt-badge--success kt-badge--inline kt-badge--pill kt-badge--rounded" style="wudth: auto; height: auto;">
-                  تم التوصيل
+            <tbody class="text-center">
+              <tr class="border-bottom">
+                <td>
+                  <p> 
+                    <span class="kt-font-warning kt-font-bolder mx-2"> اسم العميل : </span>
+                    <a href="ClientProfile.php" class="kt-link kt-link--state kt-link--info"> محمد عيد </a>
+                  </p>
+
+                  <p> 
+                    <span class="kt-font-warning kt-font-bolder mx-2"> اسم السائق : </span>
+                    <a href="DriverProfile.php" class="kt-link kt-link--state kt-link--info"> محمود سليمان </a>
+                  </p>
+
+                  <p> 
+                    <span class="kt-font-warning kt-font-bolder mx-2">  وقت التوصيل : </span>
+                    00 : 3
+                  </p>
+
+                  <p> 
+                    <span class="kt-font-warning kt-font-bolder mx-2">   رقم هاتف المستلم : </span>
+                    01000000001
+                  </p>
+
+                  <span class="custome-badge kt-badge kt-badge--success kt-badge--inline kt-badge--pill kt-badge--rounded p-2" style="width: auto; height: auto;">
+                    تم التوصيل
                   </span>
-                </td>
-                <td align="right">
-                  <a href="#" class="delete kt-badge kt-badge--outline kt-badge--danger" data-skin="dark" data-toggle="kt-tooltip" data-placement="top" title="حذف">
-                    <i class="la la-trash"></i>
-                  </a>
                 </td>
               </tr>
             </tbody>
           </table>
 
         </div>
-        <!--END: CLIENTS DATATABLE-->
+        <!--END: REQUEST DETAILS TABLE -->
+
+        <div class="col-12">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6837.839986769664!2d31.36790517858886!3d31.02847864267623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sar!2seg!4v1613946526157!5m2!1sar!2seg" style="border:0; width: 100%; height: 450px;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
 
       </div>  
     </div>
