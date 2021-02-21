@@ -674,18 +674,25 @@ input.btn.btn-label-brand.active {
 /* END:: ADD OFFER AND PACKAGE PAGE STYLE */
 
 /* START:: CLIENT PROFILE PAGE STYLES */
+.profile-card {
+  border-radius: 10px;
+  border-color: #d1d1d1;
+}
+
 .profile-card .card-head {
   position: relative;
 }
 
 .profile-card img {
   max-height: 110px;
+  border-radius: 10px 10px 0 0;
 }
 
-.profile-card .client-pic {
+.profile-card .client-pic-box {
   position: absolute;
   bottom: -55px;
   left: 50%;
+  transform: translateX(-50%);
   display: block;
   min-width: 110px;
   max-width: 110px;
@@ -693,7 +700,15 @@ input.btn.btn-label-brand.active {
   max-height: 110px;
   border-radius: 50%;
   border: 3px solid #f0a500;
-  transform: translateX(-50%);
+  background-color: #fff;
+}
+
+.profile-card .client-pic-box .client-pic {
+  display: block;
+  min-width: 100%;
+  min-height: 100%;
+  border-radius: 50%;
+  padding: 4px;
 }
 
 .profile-card .card-body {

@@ -20,7 +20,9 @@
             <div class="profile-card card">
               <div class="card-head">
                 <img src="assets/pics/bg-2.jpg" class="card-img-top" alt="...">
-                <img src="assets/pics/default.jpg" class="client-pic card-img-top" alt="...">
+                <div class="client-pic-box">
+                  <img src="assets/pics/default.jpg" class="client-pic card-img-top" alt="..."> 
+                </div>
               </div>
 
               <div class="card-body">
